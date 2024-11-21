@@ -1,0 +1,14 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# IDEs and editors
+.vs/
+obj/
+bin/
+aspnet-core/src/MyAbpProject.Web.Host/App_Data/Logs/
+aspnet-core/src/MyAbpProject.Web.Mvc/App_Data/Logs/
+aspnet-core/src/MyAbpProject.Migrator/Logs/Logs.txt
+aspnet-core/build/outputs/
+aspnet-core/docker/mvc/Mvc-Logs/
+
+
+.fake
